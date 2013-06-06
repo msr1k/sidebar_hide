@@ -30,6 +30,10 @@
   width: 75%;
 }
 
+#content.sidebar_hidden {
+  margin-right: 0px;
+}
+
 #sidebar.sidebar_hidden {
   display: none;
 }
